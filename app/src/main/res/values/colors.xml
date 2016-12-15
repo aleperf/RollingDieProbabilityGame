@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e53935</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorAccent">#9e9e9e</color>
+    <color name="button_die_normal">#e60000</color>
+    <color name="button_die_text_color">#FFFFFF</color>
+    <color name="button_reset_color">#ef5350</color>
+    <color name="app_background">#FFFFFF</color>
+</resources>
